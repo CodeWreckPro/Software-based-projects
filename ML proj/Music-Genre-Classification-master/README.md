@@ -16,8 +16,8 @@
 **To install Python:**
 
 _First, check if you already have it installed or not. To do that_
-_Open Commmand Line(Type cmd in windows search bar or Terminal in MAC or Linux)_
-_Type_
+*_Open Commmand Line(Type cmd in windows search bar or Terminal in MAC or Linux)_
+*_Type_
 ~~~~
 python3 --version
 ~~~~
