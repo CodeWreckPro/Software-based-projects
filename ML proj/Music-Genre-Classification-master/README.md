@@ -1,7 +1,7 @@
 ### MUSIC GENRE CLASSIFICATION WITH MACHINE LEARNING TECHNIQUES
 
 #### To use this project on your local system or project you must have installed:
-* Python 3.5.2
+* Python 3.6
 * Python packages:
 	* IPython
 	* Numpy
@@ -15,7 +15,9 @@
 	
 **To install Python:**
 
-_First, check if you already have it installed or not_.
+_First, check if you already have it installed or not. To do that_
+_Open Commmand Line(Type cmd in windows search bar or Terminal in MAC or Linux)_
+_Type_
 ~~~~
 python3 --version
 ~~~~
@@ -47,3 +49,5 @@ pip3 install --upgrade pip
 * CreateThenTrain.py file runs CreateDataset.py and ModelTrain.py sequentially. 
 
 * Jupyter Notebook files give useful information and tutorials about signal analysis and music genre classification.
+
+
